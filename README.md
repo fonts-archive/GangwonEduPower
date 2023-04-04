@@ -37,6 +37,8 @@ font-face
     font-style: normal;
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/GangwonEduPower/GangwonEduPower.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/GangwonEduPower/GangwonEduPower.ttf') format('truetype');
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/GangwonEduPower/GangwonEduPower.ttf') format('truetype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/GangwonEduPower/GangwonEduPower.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/GangwonEduPower/GangwonEduPower.woff2') format('woff2');
 }
 ```
